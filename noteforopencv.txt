@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/10196198/how-to-remove-convexity-defects-in-a-sudoku-square/10226971#10226971 //sieuhay
+https://stackoverflow.com/questions/9413216/simple-digit-recognition-ocr-in-opencv-python
